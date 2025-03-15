@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<hmpReleaseInfo.xml>
+
+  <uk>
+    <enabled>true</enabled>
+    <version>4.2 читай нижче про 
+                              оновлення</version>
+    <changes>
+Версія #1.2.34, від 09.03.2025:
+                  • Оновлено для патча 1.28.0.0. 
+                       1)  •В МЕНЕДЖЕРІ АНГАРІВ НЕ ПРАЦЮЄ МАКОВЕ
+                                     ПОЛЕ
+                           2)  • ОНОЛЕНО СЕСІЙНУ СТАТИСТИКУ  9.03.2025
+                           3)  • ДОДАНО АВТОМАТИЧНЕ ПОВЕРНЕННЯ 
+                                     ОБЛАДНАННЯ
+                                      УВАГА! ПРАЦЮЄ ТІЛЬКИ З WOT +
+                                     ТА БЕЗ УВІМКНЕНОГО  В МОДПАКОВІ  ХВМ!  
+                              4)  • ОНОВЛЕНО ПОКАЗНИК WN8 НА ВСІ ТАНКИ 
+             
+            
+            
+
+    </changes>
+    <forumTheme></forumTheme>
+    <downloadLink>https://habwotmods.pp.ua/</downloadLink>
+    <modsBlackList>
+    </modsBlackList>
+    <xvm>
+      <isReleaseAvailable>False</isReleaseAvailable>
+      <releaseVersionURL>https://dl1.modxvm.com/release/xvm_10.2.1.zip</releaseVersionURL>
+      <nightlyVersionURL>https://nightly.modxvm.com/download/master/xvm_latest.zip</nightlyVersionURL>
+    </xvm>
+  </uk>
+
+  <en>
+    <enabled>true</enabled>
+    <version>4.2</version>
+    <changes>
+Version #1.2.34, date 09.03.2025:
+ • updated: patch 1.28.0.0.
+    • Updated:
+                             
+
+             • ADDED AUTOMATIC EQUIPMENT RETURN
+                                     WARNING! ONLY WORKS WITH WOT + AND WITHOUT ENABLED 
+                                   IN MODPAKOV KhVM 
+
+                                  • UPDATED WN8 INDICATOR FOR ALL TANKS
+   
+   
+
+    </changes>
+    <forumTheme></forumTheme>
+    <downloadLink>https://habwotmods.pp.ua/</downloadLink>
+    <modsBlackList>
+    </modsBlackList>
+    <xvm>
+      <isReleaseAvailable>False</isReleaseAvailable>
+      <releaseVersionURL>https://dl1.modxvm.com/release/xvm_10.2.1.zip</releaseVersionURL>
+      <nightlyVersionURL>https://nightly.modxvm.com/download/master/xvm_latest.zip</nightlyVersionURL>
+    </xvm>
+  </en>
+
+  <ru>
+    <enabled>true</enabled>
+    <version>4.2</version>
+    <changes>
+Версия #1.2.34, от 09.03.2025:
+   • Сборка обновлена для 1.28.0.0.
+       • Обновлено:
+                                 • Добавлено АВТОМАТИЧЕСКОЕ ВОЗВРАЩЕНИЕ ОБОРУДОВАНИЯ
+                                     ВНИМАНИЕ! РАБОТАЕТ ТОЛЬКО С WOT + И БЕЗ ВКЛЮЧЕННОГО 
+                                   В МОДПАКОВЕ ХВМ 
+
+                                  • ОБНОВЛЕН ПОКАЗАТЕЛЬ WN8 НА ВСЕ ТАНКИ
+
+
+    </changes>
+    <forumTheme></forumTheme>
+    <downloadLink>https://habwotmods.pp.ua/</downloadLink>
+    <modsBlackList>
+    </modsBlackList>
+    <xvm>
+      <isReleaseAvailable>False</isReleaseAvailable>
+      <releaseVersionURL>https://dl1.modxvm.com/release/xvm_10.2.1.zip</releaseVersionURL>
+      <nightlyVersionURL>https://nightly.modxvm.com/download/master/xvm_latest.zip</nightlyVersionURL>
+    </xvm>
+  </ru>
+
+</hmpReleaseInfo.xml>
