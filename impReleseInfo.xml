@@ -1,40 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <hmpReleaseInfo.xml>
-
-  <uk>
-    <enabled>true</enabled>
-    <version>4.2 читай нижче про 
-                              оновлення</version>
-    <changes>
-Версія #1.2.34, від 09.03.2025:
-                  • Оновлено для патча 1.28.0.0. 
-                       1)  •В МЕНЕДЖЕРІ АНГАРІВ НЕ ПРАЦЮЄ МАКОВЕ
-                                     ПОЛЕ
-                           2)  • ОНОЛЕНО СЕСІЙНУ СТАТИСТИКУ  9.03.2025
-                           3)  • ДОДАНО АВТОМАТИЧНЕ ПОВЕРНЕННЯ 
-                                     ОБЛАДНАННЯ
-                                      УВАГА! ПРАЦЮЄ ТІЛЬКИ З WOT +
-                                     ТА БЕЗ УВІМКНЕНОГО  В МОДПАКОВІ  ХВМ!  
-                              4)  • ОНОВЛЕНО ПОКАЗНИК WN8 НА ВСІ ТАНКИ 
-             
-            
-            
-
-    </changes>
-    <forumTheme></forumTheme>
-    <downloadLink>https://habwotmods.pp.ua/</downloadLink>
-    <modsBlackList>
-    </modsBlackList>
-    <xvm>
-      <isReleaseAvailable>False</isReleaseAvailable>
-      <releaseVersionURL>https://dl1.modxvm.com/release/xvm_10.2.1.zip</releaseVersionURL>
-      <nightlyVersionURL>https://nightly.modxvm.com/download/master/xvm_latest.zip</nightlyVersionURL>
-    </xvm>
-  </uk>
-
   <en>
-    <enabled>true</enabled>
-    <version>4.2</version>
+    <enabled>false</enabled>
+    <version>1.4</version>
     <changes>
 Version #1.2.34, date 09.03.2025:
  • updated: patch 1.28.0.0.
@@ -51,7 +19,7 @@ Version #1.2.34, date 09.03.2025:
 
     </changes>
     <forumTheme></forumTheme>
-    <downloadLink>https://habwotmods.pp.ua/</downloadLink>
+    <downloadLink>https://boosty.to/inspirer_99/posts/</downloadLink>
     <modsBlackList>
     </modsBlackList>
     <xvm>
@@ -63,21 +31,20 @@ Version #1.2.34, date 09.03.2025:
 
   <ru>
     <enabled>true</enabled>
-    <version>4.2</version>
+    <version>2</version>
     <changes>
-Версия #1.2.34, от 09.03.2025:
-   • Сборка обновлена для 1.28.0.0.
+Версия #2, от 27.07.2025:
+   • Сборка обновлена для 1.36.0.0.
        • Обновлено:
-                                 • Добавлено АВТОМАТИЧЕСКОЕ ВОЗВРАЩЕНИЕ ОБОРУДОВАНИЯ
-                                     ВНИМАНИЕ! РАБОТАЕТ ТОЛЬКО С WOT + И БЕЗ ВКЛЮЧЕННОГО 
-                                   В МОДПАКОВЕ ХВМ 
-
-                                  • ОБНОВЛЕН ПОКАЗАТЕЛЬ WN8 НА ВСЕ ТАНКИ
+                                 • Возвращен менеджер реплеев
+                                 • Возвращен просмотр попаданий
+                                 • Добавлен мод "Расширение виджета экипажа в ангаре"
+                                 • Все моды адаптированы под патч 1.36.0.0
 
 
     </changes>
     <forumTheme></forumTheme>
-    <downloadLink>https://habwotmods.pp.ua/</downloadLink>
+    <downloadLink>https://boosty.to/inspirer_99/posts/</downloadLink>
     <modsBlackList>
     </modsBlackList>
     <xvm>
